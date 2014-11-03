@@ -1,4 +1,5 @@
 # ¿Y esto qué es?
+  Es una herramienta muy interesante que nos permite "compartir" nuestras planificaciones...
 
 Este es un primer texto para *modificar*, **cambiar** y jugar.
 
