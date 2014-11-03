@@ -1,7 +1,7 @@
 # ¿Y esto qué es?
   Es una herramienta muy interesante que nos permite "compartir" nuestras planificaciones...
 
-Este es un primer texto para *modificar*, **cambiar** y jugar.
+![imagen](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIr03idPgf3hAzG-0ljVRqtSDDK-oSU40JcktwXYYxhlccgSEE)
 
 > Es nuestro arenero personal
 
